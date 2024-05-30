@@ -21,7 +21,7 @@ class Students {
     }
 }
 
-public class  sarkar{
+public class  classes{
 
     public static void main(String[] args) {
 
