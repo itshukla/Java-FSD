@@ -6,6 +6,9 @@ public class Array {
         System.out.println(arr[2]);
 
         int nums[] = new int[4];
+        for(int i = 0; i < nums.length; i++){
+            System.out.println(nums[i]);
+        }
         nums[0] = 10;
         nums[1] = 20;
         nums[2] = 30;
