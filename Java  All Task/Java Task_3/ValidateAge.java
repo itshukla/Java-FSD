@@ -6,11 +6,11 @@ public class ValidateAge {
         Scanner scanner = new Scanner(System.in);
 
         try {
-            // Prompt user for age
+           
             System.out.print("Enter your age: ");
             int age = scanner.nextInt();
 
-            // Validate age
+            
             validateAge(age);
 
             System.out.println("Valid age. You can proceed.");
